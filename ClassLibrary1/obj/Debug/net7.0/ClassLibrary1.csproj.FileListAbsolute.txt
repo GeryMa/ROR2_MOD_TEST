@@ -1,0 +1,11 @@
+c:\Users\Dr3am\VsCode projects\ROR2_MOD_TEST\ROR2_MOD_TEST\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.deps.json
+c:\Users\Dr3am\VsCode projects\ROR2_MOD_TEST\ROR2_MOD_TEST\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.dll
+c:\Users\Dr3am\VsCode projects\ROR2_MOD_TEST\ROR2_MOD_TEST\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.pdb
+c:\Users\Dr3am\VsCode projects\ROR2_MOD_TEST\ROR2_MOD_TEST\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dr3am\VsCode projects\ROR2_MOD_TEST\ROR2_MOD_TEST\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+c:\Users\Dr3am\VsCode projects\ROR2_MOD_TEST\ROR2_MOD_TEST\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfo.cs
+c:\Users\Dr3am\VsCode projects\ROR2_MOD_TEST\ROR2_MOD_TEST\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+c:\Users\Dr3am\VsCode projects\ROR2_MOD_TEST\ROR2_MOD_TEST\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.dll
+c:\Users\Dr3am\VsCode projects\ROR2_MOD_TEST\ROR2_MOD_TEST\ClassLibrary1\obj\Debug\net7.0\refint\ClassLibrary1.dll
+c:\Users\Dr3am\VsCode projects\ROR2_MOD_TEST\ROR2_MOD_TEST\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.pdb
+c:\Users\Dr3am\VsCode projects\ROR2_MOD_TEST\ROR2_MOD_TEST\ClassLibrary1\obj\Debug\net7.0\ref\ClassLibrary1.dll
